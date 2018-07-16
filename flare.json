@@ -146,15 +146,6 @@
                 {
                   "children": [
                     {
-                      "name": "oKo reageert op regeerakkoord, oko, 2014-07-24",
-                      "size": 297
-                    }
-                  ],
-                  "name": "standpunt"
-                },
-                {
-                  "children": [
-                    {
                       "name": "Waar hoort kunst in het Vlaanderen van morgen?, Rekto Verso, 2014-02-01",
                       "size": 41
                     },
@@ -199,20 +190,42 @@
                       "size": 233
                     },
                     {
-                      "name": "Sven Gatz, Vlaams Minister van Cultuur, Media, Jeugd en Brussel: Ik b\u00e9n een tweederangsfiguur, Knack, 2014-08-13",
-                      "size": 330
-                    },
-                    {
-                      "name": "Kunst brengen onder Bart De Wever is niet anders dan onder Patrick Janssens, Knack, 2014-08-27",
-                      "size": 336
-                    },
-                    {
                       "name": "Filmkunst of cultuurindustrie, De Witte Raaf, 2014-09-01",
                       "size": 344
                     },
                     {
                       "name": "Vier cultuurministers op een rij, Rekto Verso, 2014-10-01",
                       "size": 446
+                    },
+                    {
+                      "name": "Krachtlijnen in het Vlaams cultuurbeleid, Rekto Verso, 2014-12-01",
+                      "size": 586
+                    },
+                    {
+                      "name": "Hebben we geld (over) voor het Vlaamse muziektheater?, e-tcetera, 2014-12-20",
+                      "size": 625
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "oKo reageert op regeerakkoord, oko, 2014-07-24",
+                      "size": 297
+                    }
+                  ],
+                  "name": "standpunt"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Sven Gatz, Vlaams Minister van Cultuur, Media, Jeugd en Brussel: Ik b\u00e9n een tweederangsfiguur, Knack, 2014-08-13",
+                      "size": 330
+                    },
+                    {
+                      "name": "Kunst brengen onder Bart De Wever is niet anders dan onder Patrick Janssens, Knack, 2014-08-27",
+                      "size": 336
                     },
                     {
                       "name": "Sven Gatz heeft een hart voor cultuur, Knack, 2014-10-15",
@@ -229,14 +242,6 @@
                     {
                       "name": "De cultuurstrijd, Knack, 2014-11-26",
                       "size": 567
-                    },
-                    {
-                      "name": "Krachtlijnen in het Vlaams cultuurbeleid, Rekto Verso, 2014-12-01",
-                      "size": 586
-                    },
-                    {
-                      "name": "Hebben we geld (over) voor het Vlaamse muziektheater?, e-tcetera, 2014-12-20",
-                      "size": 625
                     }
                   ],
                   "name": "tijdschrift"
@@ -307,16 +312,21 @@
                 {
                   "children": [
                     {
-                      "name": "Ik moet harde keuzes maken : Sven Gatz (Open Vld) vraagt mentaliteitswijziging van de cultuursector, De Zondag, 2015-03-15",
-                      "size": 769
-                    },
-                    {
                       "name": "Cultuurambtenaar nummer 1 spreekt, Rekto Verso, 2015-04-01",
                       "size": 802
                     },
                     {
                       "name": "Sven Gatz: Liberalisme moet over meer gaan dan geld en economie, Rekto Verso, 2015-04-01",
                       "size": 810
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Ik moet harde keuzes maken : Sven Gatz (Open Vld) vraagt mentaliteitswijziging van de cultuursector, De Zondag, 2015-03-15",
+                      "size": 769
                     },
                     {
                       "name": "Meer subsidies zorgen niet per se voor grotere kunst, Knack, 2015-09-09",
@@ -387,7 +397,7 @@
                       "size": 1978
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 },
                 {
                   "children": [
@@ -1113,15 +1123,6 @@
                 {
                   "children": [
                     {
-                      "name": "Projectsubsidies, open brief aan Cultuurminister Gatz, oko, 2015-08-13",
-                      "size": 1088
-                    }
-                  ],
-                  "name": "standpunt"
-                },
-                {
-                  "children": [
-                    {
                       "name": "De projectsubsidies zijn weer de pineut, Rekto Verso, 2015-06-01",
                       "size": 938
                     },
@@ -1134,7 +1135,16 @@
                       "size": 1318
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Projectsubsidies, open brief aan Cultuurminister Gatz, oko, 2015-08-13",
+                      "size": 1088
+                    }
+                  ],
+                  "name": "standpunt"
                 },
                 {
                   "children": [
@@ -1334,7 +1344,7 @@
                       "size": 1684
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 },
                 {
                   "children": [
@@ -1506,20 +1516,20 @@
                 {
                   "children": [
                     {
+                      "name": "Commoning in de cultuursector, Rekto Verso, 2014-10-01",
+                      "size": 447
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
+                    {
                       "name": "Zware besparingen voor de kunstensector, oko, 2014-09-24",
                       "size": 381
                     }
                   ],
                   "name": "standpunt"
-                },
-                {
-                  "children": [
-                    {
-                      "name": "Commoning in de cultuursector, Rekto Verso, 2014-10-01",
-                      "size": 447
-                    }
-                  ],
-                  "name": "tijdschrift"
                 }
               ],
               "name": 2014
@@ -2255,18 +2265,6 @@
                       "size": 45
                     },
                     {
-                      "name": "Yamila Idrissi (SP.A) schrijft brief aan Sven Gatz (Open VLD): Laat ons niet in de steek, Sven, Brussel deze Week, 2014-08-21",
-                      "size": 332
-                    },
-                    {
-                      "name": "Sportieve cultuurminister, Brussel deze Week, 2014-08-28",
-                      "size": 337
-                    },
-                    {
-                      "name": "Wat minister Gatz nu uitvoert, is schandalig, Knack, 2014-10-29",
-                      "size": 525
-                    },
-                    {
                       "name": "Subsidies zijn het dieptepunt van degelijk cultuurbeleid, Rekto Verso, 2014-12-01",
                       "size": 583
                     },
@@ -2285,6 +2283,23 @@
                     {
                       "name": "Vooraf H\u00a0ART #132, (h)art, 2014-12-01",
                       "size": 594
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Yamila Idrissi (SP.A) schrijft brief aan Sven Gatz (Open VLD): Laat ons niet in de steek, Sven, Brussel deze Week, 2014-08-21",
+                      "size": 332
+                    },
+                    {
+                      "name": "Sportieve cultuurminister, Brussel deze Week, 2014-08-28",
+                      "size": 337
+                    },
+                    {
+                      "name": "Wat minister Gatz nu uitvoert, is schandalig, Knack, 2014-10-29",
+                      "size": 525
                     }
                   ],
                   "name": "tijdschrift"
@@ -2530,16 +2545,21 @@
                       "size": 1683
                     },
                     {
-                      "name": "Niet meer in cultuur investeren is een schande, Knack, 2016-07-13",
-                      "size": 1799
-                    },
-                    {
                       "name": "Verlies verkopen als winst, e-tcetera, 2016-09-15",
                       "size": 1868
                     },
                     {
                       "name": "Heeft iemand dit over het hoofd gezien?, e-tcetera, 2016-11-07",
                       "size": 1950
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Niet meer in cultuur investeren is een schande, Knack, 2016-07-13",
+                      "size": 1799
                     }
                   ],
                   "name": "tijdschrift"
@@ -2639,7 +2659,7 @@
                       "size": 106
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2014
@@ -2699,6 +2719,19 @@
                 {
                   "children": [
                     {
+                      "name": "Vooraf H\u00a0ART #140, (h)art, 2015-05-01",
+                      "size": 877
+                    },
+                    {
+                      "name": "Creatief met semantiek: een kritische doorlichting van de Visienota Kunsten, e-tcetera, 2015-09-12",
+                      "size": 1129
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
+                    {
                       "name": "Reactie op de Strategische Visienota Kunsten van cultuurminister Sven Gatz, VVC, 2015-04-22",
                       "size": 864
                     },
@@ -2708,19 +2741,6 @@
                     }
                   ],
                   "name": "standpunt"
-                },
-                {
-                  "children": [
-                    {
-                      "name": "Vooraf H\u00a0ART #140, (h)art, 2015-05-01",
-                      "size": 877
-                    },
-                    {
-                      "name": "Creatief met semantiek: een kritische doorlichting van de Visienota Kunsten, e-tcetera, 2015-09-12",
-                      "size": 1129
-                    }
-                  ],
-                  "name": "tijdschrift"
                 }
               ],
               "name": 2015
@@ -2956,6 +2976,23 @@
                 {
                   "children": [
                     {
+                      "name": "A Fistful of Tax Dollars. De nieuwe taxshelter onder de loep, Rekto Verso, 2015-04-01",
+                      "size": 804
+                    },
+                    {
+                      "name": "Akkoord over 21% btw op kunst en cultuur, Rekto Verso, 2015-06-01",
+                      "size": 933
+                    },
+                    {
+                      "name": "Fernand Huts, mecenas van cultureel erfgoed , Rekto Verso, 2015-12-01",
+                      "size": 1322
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
+                    {
                       "name": "Taxshift, de kunstensector en het vel van de beer, oko, 2015-10-15",
                       "size": 1223
                     }
@@ -2965,20 +3002,8 @@
                 {
                   "children": [
                     {
-                      "name": "A Fistful of Tax Dollars. De nieuwe taxshelter onder de loep, Rekto Verso, 2015-04-01",
-                      "size": 804
-                    },
-                    {
-                      "name": "Akkoord over 21% btw op kunst en cultuur, Rekto Verso, 2015-06-01",
-                      "size": 933
-                    },
-                    {
                       "name": "Crowdfunding is veel meer dan geld ophalen, Knack, 2015-10-14",
                       "size": 1222
-                    },
-                    {
-                      "name": "Fernand Huts, mecenas van cultureel erfgoed , Rekto Verso, 2015-12-01",
-                      "size": 1322
                     }
                   ],
                   "name": "tijdschrift"
@@ -3093,7 +3118,7 @@
                       "size": 1977
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2016
@@ -3444,7 +3469,7 @@
                       "size": 591
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2014
@@ -3874,7 +3899,7 @@
                       "size": 234
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2014
@@ -3943,12 +3968,17 @@
                 {
                   "children": [
                     {
-                      "name": "Broodnodige subsidies voor een boeiende jazz wereld, jazzmozai\u00ebk, 2016-03-01",
-                      "size": 1487
-                    },
-                    {
                       "name": "Beeldende kunst: eerste bilan na de beslissingen, Rekto Verso, 2016-07-21",
                       "size": 1804
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Broodnodige subsidies voor een boeiende jazz wereld, jazzmozai\u00ebk, 2016-03-01",
+                      "size": 1487
                     }
                   ],
                   "name": "tijdschrift"
@@ -4156,7 +4186,7 @@
                       "size": 1324
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 },
                 {
                   "children": [
@@ -4557,7 +4587,7 @@
                       "size": 2022
                     }
                   ],
-                  "name": "muziek"
+                  "name": "krant"
                 }
               ],
               "name": 2017
@@ -4747,15 +4777,6 @@
                 {
                   "children": [
                     {
-                      "name": "Geef cultuur een essenti\u00eble rol in de samenleving, oko, 2014-05-15",
-                      "size": 214
-                    }
-                  ],
-                  "name": "standpunt"
-                },
-                {
-                  "children": [
-                    {
                       "name": "Is kunst een probaat therapeutisch medium?, (h)art, 2014-01-01",
                       "size": 1
                     },
@@ -4768,24 +4789,12 @@
                       "size": 105
                     },
                     {
-                      "name": "Reinhilde Decleir: Theater kan een mens uit de miserie sleuren, Knack, 2014-04-09",
-                      "size": 126
-                    },
-                    {
                       "name": "State of the Union, e-tcetera, 2014-05-09",
                       "size": 191
                     },
                     {
-                      "name": "Paul Corthouts over het belang van kunst: Geef cultuur een essenti\u00eble rol in de samenleving, Brussel deze Week, 2014-05-15",
-                      "size": 213
-                    },
-                    {
                       "name": "Vooraf H\u00a0ART #129, (h)art, 2014-09-01",
                       "size": 345
-                    },
-                    {
-                      "name": "Kunst is de soigneur van een samenleving, Knack, 2014-09-24",
-                      "size": 384
                     },
                     {
                       "name": "Kunst & cultuur maken overheid slapend rijk, (h)art, 2014-11-01",
@@ -4794,6 +4803,32 @@
                     {
                       "name": "Het afnemende draagvlak voor kunst is een mythe, Rekto Verso, 2014-12-01",
                       "size": 584
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Geef cultuur een essenti\u00eble rol in de samenleving, oko, 2014-05-15",
+                      "size": 214
+                    }
+                  ],
+                  "name": "standpunt"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Reinhilde Decleir: Theater kan een mens uit de miserie sleuren, Knack, 2014-04-09",
+                      "size": 126
+                    },
+                    {
+                      "name": "Paul Corthouts over het belang van kunst: Geef cultuur een essenti\u00eble rol in de samenleving, Brussel deze Week, 2014-05-15",
+                      "size": 213
+                    },
+                    {
+                      "name": "Kunst is de soigneur van een samenleving, Knack, 2014-09-24",
+                      "size": 384
                     }
                   ],
                   "name": "tijdschrift"
@@ -4831,7 +4866,7 @@
                       "size": 815
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2015
@@ -4854,7 +4889,7 @@
                       "size": 1749
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2016
@@ -5279,15 +5314,6 @@
                 {
                   "children": [
                     {
-                      "name": "Veiligheid op festivals, fmiv, 2016-05-10",
-                      "size": 1641
-                    }
-                  ],
-                  "name": "standpunt"
-                },
-                {
-                  "children": [
-                    {
                       "name": "Angst, Rekto Verso, 2016-04-01",
                       "size": 1556
                     },
@@ -5300,7 +5326,16 @@
                       "size": 1560
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Veiligheid op festivals, fmiv, 2016-05-10",
+                      "size": 1641
+                    }
+                  ],
+                  "name": "standpunt"
                 },
                 {
                   "children": [
@@ -6547,7 +6582,7 @@
                       "size": 590
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 },
                 {
                   "children": [
@@ -6694,6 +6729,10 @@
                       "size": 2095
                     },
                     {
+                      "name": "\u0093E\u00e9n miljoen views in \u00e9\u00e9n weekend? Ongehoord!\u0094, Gazet Van Antwerpen, 2017-02-08",
+                      "size": 2136
+                    },
+                    {
                       "name": "Drie vrienden lanceren Tinder voor muziek, Het Nieuwsblad, 2017-03-17",
                       "size": 2236
                     },
@@ -6760,15 +6799,6 @@
                     }
                   ],
                   "name": "kunstentijdschrift"
-                },
-                {
-                  "children": [
-                    {
-                      "name": "\u0093E\u00e9n miljoen views in \u00e9\u00e9n weekend? Ongehoord!\u0094, Gazet Van Antwerpen, 2017-02-08",
-                      "size": 2136
-                    }
-                  ],
-                  "name": "muziek"
                 }
               ],
               "name": 2017
@@ -6808,7 +6838,7 @@
                       "size": 1117
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2015
@@ -6826,7 +6856,7 @@
                       "size": 1758
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2016
@@ -8063,7 +8093,7 @@
                       "size": 3
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2014
@@ -8990,7 +9020,7 @@
                       "size": 1559
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2016
@@ -9128,7 +9158,7 @@
                       "size": 686
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2015
@@ -9377,7 +9407,7 @@
                       "size": 236
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2014
@@ -9426,7 +9456,7 @@
                       "size": 1916
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2016
@@ -9592,7 +9622,7 @@
                       "size": 799
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2015
@@ -9631,7 +9661,7 @@
                       "size": 1915
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2016
@@ -9836,7 +9866,12 @@
                     {
                       "name": "Vlaanderen-Nederland: eigen cultuur eerst, Rekto Verso, 2014-02-01",
                       "size": 42
-                    },
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
                     {
                       "name": "Cultuurpolitiek: Paul Dujardin en de Europese missie van Bozar: Ik ben een beetje Europa in Bozar, Brussel deze Week, 2014-04-10",
                       "size": 127
@@ -9933,12 +9968,17 @@
                 {
                   "children": [
                     {
-                      "name": "Antoine Pierre het ging allemaal heel snel dat besef ik nu pas ten volle, jazzmozai\u00ebk, 2016-03-01",
-                      "size": 1486
-                    },
-                    {
                       "name": "New Yorkse kunstbeurs Independent komt voor het eerst naar Brussel, (h)art, 2016-04-01",
                       "size": 1557
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Antoine Pierre het ging allemaal heel snel dat besef ik nu pas ten volle, jazzmozai\u00ebk, 2016-03-01",
+                      "size": 1486
                     }
                   ],
                   "name": "tijdschrift"
@@ -10278,12 +10318,17 @@
                 {
                   "children": [
                     {
-                      "name": "Mijn vriendin en ik onderzoeken of we thuis vluchtelingen kunnen opvangen, ook al wordt dat overal afgeraden, Humo, 2015-09-29",
-                      "size": 1183
-                    },
-                    {
                       "name": "Vluchtelingen voor de camera, Rekto Verso, 2015-10-01",
                       "size": 1199
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Mijn vriendin en ik onderzoeken of we thuis vluchtelingen kunnen opvangen, ook al wordt dat overal afgeraden, Humo, 2015-09-29",
+                      "size": 1183
                     }
                   ],
                   "name": "tijdschrift"
@@ -10354,16 +10399,21 @@
                 {
                   "children": [
                     {
-                      "name": "Kogels vergaan, kunst blijft bestaan, DM Magazine, 2016-03-29",
-                      "size": 1548
-                    },
-                    {
                       "name": "Vluchtelingen op het podium, Rekto Verso, 2016-06-01",
                       "size": 1672
                     },
                     {
                       "name": "Het artistieke kapitaal van de vluchteling, e-tcetera, 2016-11-24",
                       "size": 1965
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Kogels vergaan, kunst blijft bestaan, DM Magazine, 2016-03-29",
+                      "size": 1548
                     }
                   ],
                   "name": "tijdschrift"
@@ -10539,6 +10589,10 @@
                       "size": 3040
                     },
                     {
+                      "name": "\u0093Buitenlandse artiesten moeten kunnen blijven optreden in ons land\u0094, Gazet Van Antwerpen, 2018-02-19",
+                      "size": 3042
+                    },
+                    {
                       "name": "Globe Aroma is eerste stap in preventie van radicalisme, De Standaard, 2018-02-19",
                       "size": 3044
                     },
@@ -10573,15 +10627,6 @@
                     }
                   ],
                   "name": "kunstentijdschrift"
-                },
-                {
-                  "children": [
-                    {
-                      "name": "\u0093Buitenlandse artiesten moeten kunnen blijven optreden in ons land\u0094, Gazet Van Antwerpen, 2018-02-19",
-                      "size": 3042
-                    }
-                  ],
-                  "name": "muziek"
                 },
                 {
                   "children": [
@@ -11782,7 +11827,7 @@
                       "size": 1572
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2016
@@ -12069,7 +12114,7 @@
                       "size": 816
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2015
@@ -12650,10 +12695,6 @@
                       "size": 691
                     },
                     {
-                      "name": "Hij hielp me uit mijn depressie, maar bedroog me met zn kleedster., Dag Allemaal, 2015-03-24",
-                      "size": 788
-                    },
-                    {
                       "name": "Essay:\u00a0Makkers, staakt uw wild geraas!\u00a0Voor en tegen tinnitus, gonzo circus, 2015-07-01",
                       "size": 999
                     },
@@ -12668,6 +12709,15 @@
                     {
                       "name": "Vier zelfhulptips voor de overvolle kunstenaar, Rekto Verso, 2015-12-01",
                       "size": 1321
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Hij hielp me uit mijn depressie, maar bedroog me met zn kleedster., Dag Allemaal, 2015-03-24",
+                      "size": 788
                     }
                   ],
                   "name": "tijdschrift"
@@ -13561,16 +13611,21 @@
                 {
                   "children": [
                     {
+                      "name": "Vooraf H\u00a0ART #130, (h)art, 2014-10-01",
+                      "size": 443
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
+                    {
                       "name": "vrouwen in jazz: deel 1, jazzmozai\u00ebk, 2014-06-01",
                       "size": 235
                     },
                     {
                       "name": "Jazzhistorie: vrouwen in jazz, jazzmozai\u00ebk, 2014-09-01",
                       "size": 342
-                    },
-                    {
-                      "name": "Vooraf H\u00a0ART #130, (h)art, 2014-10-01",
-                      "size": 443
                     }
                   ],
                   "name": "tijdschrift"
@@ -13604,12 +13659,17 @@
                 {
                   "children": [
                     {
-                      "name": "vrouwen in jazz: deel 3, jazzmozai\u00ebk, 2015-03-01",
-                      "size": 731
-                    },
-                    {
                       "name": "Interview met Griselda Pollock over haar feministisch project, (h)art, 2015-08-01",
                       "size": 1072
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "vrouwen in jazz: deel 3, jazzmozai\u00ebk, 2015-03-01",
+                      "size": 731
                     }
                   ],
                   "name": "tijdschrift"
@@ -13703,7 +13763,7 @@
                       "size": 1981
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2016
@@ -14157,7 +14217,12 @@
                     {
                       "name": "De ge\u00ebngageerde kunstenaar als katalysator, Rekto Verso, 2015-10-01",
                       "size": 1201
-                    },
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
                     {
                       "name": "We tonen wat dementie met een mens doet, Knack, 2015-11-11",
                       "size": 1272
@@ -14404,7 +14469,7 @@
                       "size": 108
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2014
@@ -14437,7 +14502,12 @@
                     {
                       "name": "De kunstenaar staat centraal, zei u?, Rekto Verso, 2015-06-01",
                       "size": 936
-                    },
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
                     {
                       "name": "Werken voor een aalmoes, Dag Allemaal, 2015-06-23",
                       "size": 974
@@ -14483,6 +14553,19 @@
                 {
                   "children": [
                     {
+                      "name": "Een eerlijk loon in de creatieve sector: een onderzoek naar principes , Rekto Verso, 2016-12-01",
+                      "size": 1975
+                    },
+                    {
+                      "name": "Vooraf H\u00a0ART #164-165, (h)art, 2016-12-01",
+                      "size": 1980
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
+                    {
                       "name": "noodkreet over sociale wetgeving, acteursgilde, 2016-10-13",
                       "size": 1929
                     },
@@ -14492,19 +14575,6 @@
                     }
                   ],
                   "name": "standpunt"
-                },
-                {
-                  "children": [
-                    {
-                      "name": "Een eerlijk loon in de creatieve sector: een onderzoek naar principes , Rekto Verso, 2016-12-01",
-                      "size": 1975
-                    },
-                    {
-                      "name": "Vooraf H\u00a0ART #164-165, (h)art, 2016-12-01",
-                      "size": 1980
-                    }
-                  ],
-                  "name": "tijdschrift"
                 },
                 {
                   "children": [
@@ -14726,6 +14796,15 @@
                 {
                   "children": [
                     {
+                      "name": "Een burgerkabinet?, e-tcetera, 2015-12-03",
+                      "size": 1326
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
+                    {
                       "name": "Een burgerkabinet?, oko, 2015-12-03",
                       "size": 1328
                     }
@@ -14741,10 +14820,6 @@
                     {
                       "name": "Ik ben geen harde heelmeester, Trends, 2015-07-02",
                       "size": 1007
-                    },
-                    {
-                      "name": "Een burgerkabinet?, e-tcetera, 2015-12-03",
-                      "size": 1326
                     }
                   ],
                   "name": "tijdschrift"
@@ -14834,7 +14909,7 @@
                       "size": 1000
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2015
@@ -14881,7 +14956,7 @@
                       "size": 1948
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2016
@@ -14960,7 +15035,7 @@
                       "size": 445
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2014
@@ -15075,7 +15150,7 @@
                       "size": 1205
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 }
               ],
               "name": 2015
@@ -15150,18 +15225,13 @@
                     {
                       "name": "Extra middelen voor deeltijds kunstonderwijs, Het Laatste Nieuws, 2017-10-19",
                       "size": 2786
-                    }
-                  ],
-                  "name": "krant"
-                },
-                {
-                  "children": [
+                    },
                     {
                       "name": "Straks kneusjes voor de kunstklas?, De Standaard, 2017-11-22",
                       "size": 2858
                     }
                   ],
-                  "name": "podium"
+                  "name": "krant"
                 },
                 {
                   "children": [
@@ -15295,7 +15365,7 @@
                       "size": 1918
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 },
                 {
                   "children": [
@@ -15437,12 +15507,17 @@
                 {
                   "children": [
                     {
-                      "name": "Geen tijd meer voor cultuur, Knack, 2014-05-07",
-                      "size": 181
-                    },
-                    {
                       "name": "Maar wie is uw doelpubliek?, Rekto Verso, 2014-12-01",
                       "size": 587
+                    }
+                  ],
+                  "name": "kunstentijdschrift"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Geen tijd meer voor cultuur, Knack, 2014-05-07",
+                      "size": 181
                     }
                   ],
                   "name": "tijdschrift"
@@ -15839,7 +15914,7 @@
                       "size": 1380
                     }
                   ],
-                  "name": "tijdschrift"
+                  "name": "kunstentijdschrift"
                 },
                 {
                   "children": [
